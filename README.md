@@ -5,7 +5,7 @@
 📊 CGPA: **8.65**
 
 📧 **Email:** reksitrajan01@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/your-linkedin  
+🔗 **LinkedIn:** https://linkedin.com/in/your-linkedin
 💻 **GitHub:** https://github.com/reksitrajan01  
 🏆 **LeetCode:** https://leetcode.com/your-leetcode  
 
